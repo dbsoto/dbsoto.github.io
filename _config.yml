@@ -12,6 +12,7 @@ description: I solve problems - sometimes with code
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dbsoto.github.io" # the base hostname & protocol for your site
 github_username:  dbsoto
+linkedin_username:  dbsoto
 paginate: 5
 
 gems: [jekyll-paginate, kramdown]
